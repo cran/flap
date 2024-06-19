@@ -1,7 +1,7 @@
 Package: flap
 Type: Package
 Title: Forecast Linear Augmented Projection
-Version: 0.1.0
+Version: 0.2.0
 Authors@R: 
       person(given = "Yangzhuoran Fin", 
              family = "Yang", 
@@ -24,9 +24,9 @@ Imports: corpcor, utils
 RoxygenNote: 7.2.3
 Suggests: forecast, stats
 NeedsCompilation: no
-Packaged: 2024-02-27 22:36:38 UTC; fyan0012
+Packaged: 2024-06-18 18:40:48 UTC; fyan0012
 Author: Yangzhuoran Fin Yang [aut, cre]
     (<https://orcid.org/0000-0002-1232-8017>)
 Maintainer: Yangzhuoran Fin Yang <yangyangzhuoran@gmail.com>
 Repository: CRAN
-Date/Publication: 2024-02-28 19:10:09 UTC
+Date/Publication: 2024-06-19 09:10:02 UTC
